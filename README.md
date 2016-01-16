@@ -5,7 +5,7 @@
 
 This space exists for the sole purpose of messing around with Data Science projects.
 #### (insert Asian koel birdsong here)
-
+#### (insert more Asian koel birdsong)
 
 
 <a name = "Notes"> <a>
@@ -13,4 +13,4 @@ This space exists for the sole purpose of messing around with Data Science proje
 When you clone someone else's repository, it goes to your computer, NOT YOUR ACCOUNT
 When you want to push changes from your computer to your own repo:
 * git clone your own repo
-* 
+*
