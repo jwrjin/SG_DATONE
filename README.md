@@ -7,6 +7,13 @@ This space exists for the sole purpose of messing around with Data Science proje
 #### (insert Asian koel birdsong here)
 #### (insert more Asian koel birdsong)
 
+HOMEWORK:
+* setup git credentials (git keeps asking for username)
+* try writing custom commands
+*   Can command aliases be added to a dos shell automatically
+*   Check STACK OVERFLOW
+* (https://github.com/github/gitignore)
+
 
 <a name = "Notes"> <a>
 # Notes
